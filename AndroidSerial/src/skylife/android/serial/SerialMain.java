@@ -48,8 +48,8 @@ public class SerialMain implements Runnable{
 				if( count > 20){
 					this.serialWindow.btnDisconn.doClick();
 					Thread.sleep(500);
-					this.serialWindow.btnPORTScan.doClick();
-					Thread.sleep(100);
+					//this.serialWindow.btnPORTScan.doClick();
+					//Thread.sleep(100);
 					//this.serialComm.connect(this.serialWindow.txtPORT.getText().trim());
 					this.serialWindow.btnConnect.doClick();
 					count = 0;
@@ -276,7 +276,7 @@ public class SerialMain implements Runnable{
 					serialWindow.tableModel.addRow(obj);
 				}
 				try{
-					if( serialWindow.tableModel.getRowCount() > 30 )
+					if( serialWindow.tableModel.getRowCount() > 100 )
 					{
 						serialWindow.tableModel.removeRow(0);
 					}

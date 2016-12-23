@@ -16,6 +16,8 @@ public class SerialComm {
 	private CommPort commPort;
 	private OutputStream out;
 	
+	private Thread thr;
+	
 	public SerialComm(SerialMain serialMain)
 	{
 		this.serialMain = serialMain;
@@ -51,8 +53,24 @@ public class SerialComm {
 	
 	public void disconnect()
 	{
+		try{
 		isRunning = false;
+		}catch(Exception e)
+		{
+			Log.errorLog(this, e.toString());
+		}
+		try{
+		thr = null;
+		}catch(Exception e)
+		{
+			Log.errorLog(this, e.toString());
+		}
+		try{
 		this.commPort.close();
+		}catch(Exception e)
+		{
+			Log.errorLog(this, e.toString());
+		}
 		
 	}
 	
@@ -103,7 +121,8 @@ public class SerialComm {
                 outWriter(out);
                 //out.write(("logcat"+ "\r\n").getBytes());
                 
-                (new Thread(new SerialReader(in))).start();
+                thr = (new Thread(new SerialReader(in)));
+                thr.start();
                 //(new Thread(new SerialWriter(out))).start();
                 
                 serialMain.setObjectMessage(portName + " Connected.","status");
