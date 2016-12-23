@@ -1,0 +1,717 @@
+[2016-12-23 00:34:27] java.lang.NullPointerException
+[2016-12-23 00:35:23] java.lang.NullPointerException
+[2016-12-23 00:44:11] java.lang.NullPointerException
+[2016-12-23 00:45:18] java.lang.NullPointerException
+[2016-12-23 00:45:56] java.lang.NullPointerException
+[2016-12-23 00:46:09] java.lang.NullPointerException
+[2016-12-23 00:46:21] java.lang.NullPointerException
+[2016-12-23 01:42:29] java.lang.NullPointerException
+[2016-12-23 01:44:44] java.lang.NullPointerException
+[2016-12-23 01:44:57] java.lang.NullPointerException
+[2016-12-23 01:46:05] java.lang.NullPointerException
+[2016-12-23 01:46:55] java.lang.NullPointerException
+[2016-12-23 01:48:07] java.lang.NullPointerException
+[2016-12-23 01:52:50] gnu.io.PortInUseException: Unknown Application
+[2016-12-23 01:53:08] java.lang.NullPointerException
+[2016-12-23 01:53:16] java.lang.NullPointerException
+[2016-12-23 01:54:28] java.lang.NullPointerException
+[2016-12-23 01:55:17] java.lang.NullPointerException
+[2016-12-23 01:55:54] java.lang.NullPointerException
+[2016-12-23 02:11:53] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 02:12:48] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 02:20:27] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 02:28:13] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 02:39:37] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:39:38] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:39:39] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:39:40] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:39:41] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:40:17] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:40:18] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:40:19] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:40:20] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:01] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:01] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:02] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:02] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:50] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:51] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:51] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:52] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:52] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:53] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:53] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:54] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:54] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:55] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:55] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:42:56] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:45:39] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:45:40] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:45:40] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:45:41] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:45:41] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:45:42] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:45:42] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:45:43] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:45:43] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:45:44] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:45:44] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 02:45:45] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:12:04] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:12:05] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:12:05] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:12:06] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:12:06] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:12:07] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:12:07] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:12:08] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:12:08] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:31:49] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:31:49] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:31:50] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:31:50] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 03:31:51] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:00:58] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:02:25] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:04:10] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:04:10] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:04:11] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:04:11] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:04:12] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:04:12] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:04:13] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:04:54] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:25:58] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:25:58] java.lang.NullPointerException
+[2016-12-23 04:25:59] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:25:59] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:26:00] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:26:00] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:26:01] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:26:01] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:26:02] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:26:02] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:26:03] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:26:03] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:26:04] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:26:04] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:26:05] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:26:05] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:28:41] java.lang.ArrayIndexOutOfBoundsException: 3 >= 3
+[2016-12-23 04:30:59] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:00] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:00] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:01] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:01] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:02] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:02] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:03] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:03] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:04] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:04] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:05] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:05] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:06] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:06] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:07] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:07] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:08] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:08] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:09] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:09] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:10] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:10] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:11] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:11] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:12] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:12] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:13] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:13] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:14] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:14] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:15] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:35] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:31:35] java.lang.NullPointerException
+[2016-12-23 04:31:35] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:36] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:36] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:37] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:37] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:38] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:38] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:39] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:31:39] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:18] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:32:18] java.lang.NullPointerException
+[2016-12-23 04:32:18] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:19] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:19] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:20] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:20] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:21] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:21] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:22] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:22] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:23] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:23] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:24] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:24] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:25] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:25] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:26] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:26] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:32:27] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:34:34] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:34:35] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:34:35] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:40:25] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:40:25] java.lang.NullPointerException
+[2016-12-23 04:40:26] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:40:26] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:40:27] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:40:27] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:40:28] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:40:44] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:40:44] java.lang.NullPointerException
+[2016-12-23 04:40:45] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:40:45] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:40:46] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:40:46] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:40:47] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:40:47] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:40:48] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:42:55] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:42:55] java.lang.NullPointerException
+[2016-12-23 04:42:55] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:42:56] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:42:56] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:42:57] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:42:57] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:44:16] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:44:16] java.lang.NullPointerException
+[2016-12-23 04:44:16] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:44:17] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:44:17] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:44:18] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:44:18] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:44:19] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:44:19] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:44:20] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:44:20] javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:46:46] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:46:46] java.lang.NullPointerException
+[2016-12-23 04:46:47] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:46:47] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:46:48] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:46:48] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:46:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:46:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:46:50] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:46:50] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:46:51] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:46:51] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:46:52] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:52] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:47:52] java.lang.NullPointerException
+[2016-12-23 04:47:53] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:53] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:54] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:54] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:55] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:55] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:56] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:56] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:57] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:57] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:58] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:58] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:59] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:47:59] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:00] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:00] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:01] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:01] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:02] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:02] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:03] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:03] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:04] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:04] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:05] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:05] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:06] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:06] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:07] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:08] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:08] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:09] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:09] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:10] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:10] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:11] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:11] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:12] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:12] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:13] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:13] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:14] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:14] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:15] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:15] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:16] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:16] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:17] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:17] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:18] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:18] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:19] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:19] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:20] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:20] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:21] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:49] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:48:49] java.lang.NullPointerException
+[2016-12-23 04:48:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:50] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:50] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:51] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:48:51] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:55:48] java.io.FileNotFoundException: C:\eclipse\git\AndroidSerial\AndroidSerial\prop (지정된 파일을 찾을 수 없습니다)
+[2016-12-23 04:55:48] java.lang.NullPointerException
+[2016-12-23 04:55:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:55:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:55:50] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:55:50] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:55:51] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:55:51] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:55:52] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:55:52] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 04:58:41] java.lang.ArrayIndexOutOfBoundsException: 3 >= 3
+[2016-12-23 05:02:33] java.lang.ArrayIndexOutOfBoundsException: 6 >= 6
+[2016-12-23 05:28:23] java.lang.ArrayIndexOutOfBoundsException: 3 >= 3
+[2016-12-23 05:28:42] java.lang.ArrayIndexOutOfBoundsException: 6 >= 6
+[2016-12-23 05:34:28] java.lang.ArrayIndexOutOfBoundsException: 3 >= 3
+[2016-12-23 05:58:23] java.lang.ArrayIndexOutOfBoundsException: 6 >= 6
+[2016-12-23 06:02:33] java.lang.ArrayIndexOutOfBoundsException: 3 >= 3
+[2016-12-23 06:04:29] java.lang.ArrayIndexOutOfBoundsException: 6 >= 6
+[2016-12-23 06:28:41] java.lang.ArrayIndexOutOfBoundsException: 3 >= 3
+[2016-12-23 06:32:32] java.lang.ArrayIndexOutOfBoundsException: 6 >= 6
+[2016-12-23 06:58:23] java.lang.ArrayIndexOutOfBoundsException: 3 >= 3
+[2016-12-23 06:58:41] java.lang.ArrayIndexOutOfBoundsException: 6 >= 6
+[2016-12-23 07:04:28] java.lang.ArrayIndexOutOfBoundsException: 3 >= 3
+[2016-12-23 07:28:23] java.lang.ArrayIndexOutOfBoundsException: 6 >= 6
+[2016-12-23 07:32:33] java.lang.ArrayIndexOutOfBoundsException: 3 >= 3
+[2016-12-23 07:34:29] java.lang.ArrayIndexOutOfBoundsException: 6 >= 6
+[2016-12-23 07:58:41] java.lang.ArrayIndexOutOfBoundsException: 3 >= 3
+[2016-12-23 08:02:32] java.lang.ArrayIndexOutOfBoundsException: 6 >= 6
+[2016-12-23 08:28:23] java.lang.ArrayIndexOutOfBoundsException: 3 >= 3
+[2016-12-23 08:28:41] java.lang.ArrayIndexOutOfBoundsException: 6 >= 6
+[2016-12-23 08:34:28] java.lang.ArrayIndexOutOfBoundsException: 3 >= 3
+[2016-12-23 08:58:23] java.lang.ArrayIndexOutOfBoundsException: 6 >= 6
+[2016-12-23 09:02:47] java.lang.ArrayIndexOutOfBoundsException: 3 >= 3
+[2016-12-23 10:02:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:02:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:02:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:02:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:02:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:02:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:02:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:02:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:02:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:02:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:02:40] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:02:40] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:02:41] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:02:41] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:03:00] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:03:01] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:03:01] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:03:02] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:26:44] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:26:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:26:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:26:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:26:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:26:47] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:26:47] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:26:48] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:26:48] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:26:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:26:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:32] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:32] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:33] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:33] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:34] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:34] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:40] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:41] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:41] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:42] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:42] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:43] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:43] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:44] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:44] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:27:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:21] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:21] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:22] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:22] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:23] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:23] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:24] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:24] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:25] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:25] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:26] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:26] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:27] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:27] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:28:59] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:29:00] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:29:00] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:29:01] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:30:19] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:30:20] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:30:20] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:30:21] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:30:21] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:30:22] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:30:22] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:30:23] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:30:23] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:30:24] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:30:24] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:30:25] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:45:05] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:45:06] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:45:06] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:45:07] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:45:07] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:40] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:40] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:41] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:41] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:42] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:42] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:43] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:43] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:44] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:44] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:47] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:47] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:48] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:48] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:50] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:50] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:51] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 10:59:51] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:10:01] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:10:01] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:10:02] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:10:02] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:10:03] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:10:03] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:10:15] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:10:16] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:10:16] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:10:17] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:10:17] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:17:44] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:17:44] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:17:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:17:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:17:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:17:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:17:47] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:18:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:18:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:18:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:18:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:18:40] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:18:40] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:18:41] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:30:05] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:30:05] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:30:06] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:30:06] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:30:07] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:30:07] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:30:08] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:31:05] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:31:05] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:31:06] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:31:06] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:31:07] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:31:07] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 11:31:08] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:42:24] java.lang.ArrayIndexOutOfBoundsException: 0 >= 0
+[2016-12-23 12:43:04] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:43:05] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:43:05] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:43:06] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:44:59] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:44:59] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:45:00] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:45:00] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:45:01] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:48:03] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:48:04] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:48:04] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:48:05] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:48:05] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:48:06] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:48:06] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:48:07] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:48:07] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:48:08] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:48:08] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:48:09] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:59:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:59:47] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:59:47] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:59:48] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:59:48] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:59:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:59:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 12:59:50] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:26] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:26] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:27] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:27] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:28] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:28] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:29] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:29] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:30] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:30] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:31] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:31] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:32] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:32] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:33] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:33] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:34] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:34] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:03:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:04:56] java.lang.ArrayIndexOutOfBoundsException: 0 >= 0
+[2016-12-23 13:06:27] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:28] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:28] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:29] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:29] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:30] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:30] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:31] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:31] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:32] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:33] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:33] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:34] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:34] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:06:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:07:46] java.lang.ArrayIndexOutOfBoundsException: Array index out of range: -1
+[2016-12-23 13:13:00] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:13:01] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:13:01] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:13:02] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:13:02] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:13:03] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:13:03] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:13:04] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:13:04] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:35:00] java.lang.ArrayIndexOutOfBoundsException: 0 >= 0
+[2016-12-23 13:35:05] java.lang.ArrayIndexOutOfBoundsException: 0 >= 0
+[2016-12-23 13:35:12] java.lang.ArrayIndexOutOfBoundsException: 0 >= 0
+[2016-12-23 13:38:33] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:38:34] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:38:34] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:38:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:38:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:38:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:38:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 13:38:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:23] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:23] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:24] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:24] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:25] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:25] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:26] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:26] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:27] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:27] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:28] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:28] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:29] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:29] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:30] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:30] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:31] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:31] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:32] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:32] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:33] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:33] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:34] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:34] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:40] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:40] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:41] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:41] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:42] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:42] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:43] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:44] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:44] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:47] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:47] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:48] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:48] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:09:50] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:43] gnu.io.NoSuchPortException
+[2016-12-23 15:10:44] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:47] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:47] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:48] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:48] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:49] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:50] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:50] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:51] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:51] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:52] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:52] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:53] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:53] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:54] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:54] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:55] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:55] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:56] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:56] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:10:57] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:11:27] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:11:27] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:11:28] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:11:28] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:11:29] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:11:29] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:11:30] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:11:30] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:11:31] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:11:31] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:21:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:21:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:21:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:21:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:21:40] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:21:40] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:21:41] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:21:41] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:21:42] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:21:42] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:21:43] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:21:43] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:22:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:22:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:22:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:22:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:22:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:22:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:22:38] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:22:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:22:39] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:22:40] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:25:32] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:25:32] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:25:33] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:25:33] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:25:34] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:25:34] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:25:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:25:35] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:25:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:25:36] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:25:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:25:37] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:26:42] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:26:42] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:26:43] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:26:43] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:26:44] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:26:44] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:26:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:26:45] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:26:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:26:46] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:29:24] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:29:25] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:29:25] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:29:26] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:29:26] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:30:03] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:30:04] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:30:04] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:30:05] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:30:05] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:30:06] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:30:07] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:30:07] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:30:08] run() :: javax.swing.text.BadLocationException: Invalid location
+[2016-12-23 15:30:08] run() :: javax.swing.text.BadLocationException: Invalid location
