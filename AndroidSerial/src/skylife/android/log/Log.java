@@ -11,6 +11,7 @@ public class Log {
 	public static String RESDIR = "\\result";
 	public static String PROPFILE = "\\prop";
 	public static String ManufactureFILE = "\\Manufacture";
+	public static String ManufactureFILE_PID = "\\Manufacture_PID";
 	public static String ModelFILE = "\\Model";
 	
 	public static void log(Object obj, String message)

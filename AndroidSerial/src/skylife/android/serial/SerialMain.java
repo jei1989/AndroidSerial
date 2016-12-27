@@ -280,6 +280,9 @@ public class SerialMain implements Runnable{
 					{
 						serialWindow.tableModel.removeRow(0);
 					}
+					
+					serialWindow.table.changeSelection(serialWindow.tableModel.getRowCount()-1, 0, false, false);
+					
 				}catch(Exception ex)
 				{
 					Log.errorLog(this, ex.toString());
