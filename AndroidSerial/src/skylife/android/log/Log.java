@@ -36,7 +36,11 @@ public class Log {
 		
 		Calendar cal = Calendar.getInstance();
 		SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-		message = "["+df.format(cal.getTime())+"] " + message;
+		if( type.equals("signal")){
+			message = df.format(cal.getTime())+" " + message;
+		}else{
+			message = "["+df.format(cal.getTime())+"] " + message;
+		}
 		
 		SimpleDateFormat dfname = new SimpleDateFormat("yyyy-MM-dd");
 		FileWriter fos = null;
@@ -47,6 +51,8 @@ public class Log {
 				fos = new FileWriter(MAINDIR+LOGDIR+ "\\" + String.valueOf(dfname.format(cal.getTime()))+"_error",true );
 			}else if( type.equals("capture")){
 				fos = new FileWriter(MAINDIR+LOGDIR+ "\\" + String.valueOf(dfname.format(cal.getTime()))+"_capture",true );
+			}else{
+				fos = new FileWriter(MAINDIR+LOGDIR+ "\\" + String.valueOf(dfname.format(cal.getTime()))+"_"+type,true );
 			}
 					
 			fos.write(message+"\r\n");

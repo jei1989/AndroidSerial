@@ -35,11 +35,13 @@ import java.awt.SystemColor;
 import java.awt.Color;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
+import javax.swing.border.SoftBevelBorder;
 
 public class SerialWindow extends JFrame {
 
 	private JPanel contentPane;
-
+	public JPanel panel;
+	
 	public JTable table;
 	public DefaultTableModel tableModel;
 	
@@ -57,6 +59,15 @@ public class SerialWindow extends JFrame {
 	public JButton btnRemoveRow;
 	public JButton btnInsertRow;
 	public JLabel lblLeft;
+	public JCheckBox chckbxDmt;
+	private JLabel lblSignalChk;
+	private JLabel lblSampleName;
+	public JTextField txtBoxSample;
+	
+	private JLabel lblGpsip;
+	private JLabel lblGpsport;
+	public JTextField txtGPSip;
+	public JTextField txtGPSport;
 
 	/**
 	 * Launch the application.
@@ -81,7 +92,7 @@ public class SerialWindow extends JFrame {
 	 * Create the frame.
 	 */
 	public SerialWindow() {
-		setTitle("OTA Image Monitering V1.1");
+		setTitle("OTA Image Monitering V1.3");
 		setIconImage(Toolkit.getDefaultToolkit().getImage(Log.MAINDIR+"\\satellite.png"));
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 1280, 600);
@@ -101,7 +112,9 @@ public class SerialWindow extends JFrame {
 		JSplitPane splitPane_1 = new JSplitPane();
 		contentPane.add(splitPane_1, BorderLayout.CENTER);
 		
-		JPanel panel = new JPanel();
+		panel = new JPanel();
+		
+		
 		splitPane_1.setLeftComponent(panel);
 		panel.setPreferredSize(new Dimension(200,0));
 		panel.setLayout(new MigLayout("", "[30][14.00][107.00,grow]", "[15.00][][][][][][][][][][][][][][][][][grow]"));
@@ -112,6 +125,7 @@ public class SerialWindow extends JFrame {
 		panel.add(lblCapture, "cell 0 0,growx,aligny center");
 		
 		chckboxCapture = new JCheckBox("Capture OFF");
+		chckboxCapture.setSelected(true);
 		chckboxCapture.setFont(new Font("¸¼Àº °íµñ", Font.BOLD, 12));
 		panel.add(chckboxCapture, "cell 2 0");
 		
@@ -153,6 +167,46 @@ public class SerialWindow extends JFrame {
 		
 		btnDisconn.setFont(new Font("¸¼Àº °íµñ", Font.BOLD, 12));
 		panel.add(btnDisconn, "cell 2 4");
+		
+		lblSignalChk = new JLabel("Signal CHK");
+		lblSignalChk.setFont(new Font("¸¼Àº °íµñ", Font.BOLD, 12));
+		lblSignalChk.setBorder(new EtchedBorder(EtchedBorder.LOWERED, null, null));
+		panel.add(lblSignalChk, "cell 0 5");
+		
+		chckbxDmt = new JCheckBox("DMT");
+		chckbxDmt.setSelected(true);
+		chckbxDmt.setFont(new Font("¸¼Àº °íµñ", Font.BOLD, 12));
+		panel.add(chckbxDmt, "cell 2 5");
+		
+		lblSampleName = new JLabel("Sample Name");
+		lblSampleName.setFont(new Font("¸¼Àº °íµñ", Font.BOLD, 12));
+		lblSampleName.setBorder(new EtchedBorder(EtchedBorder.LOWERED, null, null));
+		panel.add(lblSampleName, "cell 0 6");
+		
+		txtBoxSample = new JTextField();
+		txtBoxSample.setText("mobile");
+		txtBoxSample.setColumns(10);
+		panel.add(txtBoxSample, "cell 2 6,growx");
+		
+		lblGpsip = new JLabel("GPSIP");
+		lblGpsip.setFont(new Font("¸¼Àº °íµñ", Font.BOLD, 12));
+		lblGpsip.setBorder(new EtchedBorder(EtchedBorder.LOWERED, null, null));
+		panel.add(lblGpsip, "cell 0 7");
+		
+		txtGPSip = new JTextField();
+		txtGPSip.setText("192.168.43.1");
+		txtGPSip.setColumns(10);
+		panel.add(txtGPSip, "cell 2 7,growx");
+		
+		lblGpsport = new JLabel("GPSPORT");
+		lblGpsport.setFont(new Font("¸¼Àº °íµñ", Font.BOLD, 12));
+		lblGpsport.setBorder(new EtchedBorder(EtchedBorder.LOWERED, null, null));
+		panel.add(lblGpsport, "cell 0 8");
+		
+		txtGPSport = new JTextField();
+		txtGPSport.setText("10110");
+		txtGPSport.setColumns(10);
+		panel.add(txtGPSport, "cell 2 8,growx");
 		
 		lblLeft = new JLabel("");
 		panel.add(lblLeft, "cell 0 14 3 4,grow");
